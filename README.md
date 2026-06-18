@@ -1,1 +1,1 @@
-***# Learning Python with Pygames*** :shipit:
+# Learning Python with Pygames :shipit:
